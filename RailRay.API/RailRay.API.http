@@ -1,0 +1,6 @@
+@RailRay.API_HostAddress = http://localhost:5085
+
+GET {{RailRay.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
