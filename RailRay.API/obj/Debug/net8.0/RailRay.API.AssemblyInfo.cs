@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RailRay.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf603b60cc779cbfc5896494ba14bdb58c7a1bd5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4f396c3190383b1150797a12d9a87e1ee121e9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RailRay.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RailRay.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
